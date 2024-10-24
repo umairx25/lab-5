@@ -109,7 +109,6 @@ public class LoggedInView extends JPanel implements PropertyChangeListener {
         this.add(title);
         this.add(usernameInfo);
         this.add(username);
-
         this.add(passwordInfo);
         this.add(passwordErrorField);
         this.add(buttons);
